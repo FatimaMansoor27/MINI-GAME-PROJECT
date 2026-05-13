@@ -1,1 +1,2 @@
 # MINI-GAME-PROJECT
+A  fun "C++ CONSOL BASED MINI GAME COLLECTION" developed in DEV C++.This project is a collection of multiple engaging console games built  using C++ . It offers an interactive gaming experience with features like Score Tracking, Dynamic Difficulty Adjustment , and Player Performance Reports.It help strengthen fundamental C++ programming concepts including  functions, loops, arrays,conditional statements, and basic OOP.
